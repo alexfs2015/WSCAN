@@ -25,7 +25,7 @@ python main.py
 
 ## Usage
 The use of WSCAN is very simple, when you start WSCAN you will see a menu like this one:
-![](main-menu.pn)
+![](main-menu.png)
 
 ## License
 
