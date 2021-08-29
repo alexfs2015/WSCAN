@@ -26,6 +26,7 @@ python main.py
 ## Usage
 The use of WSCAN is very simple, when you start WSCAN you will see a menu like this one:
 ![](menu.png)
+
 And there you will be able to use the option you prefer.
 
 Any suggestions or ideas are welcome!
