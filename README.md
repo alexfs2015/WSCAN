@@ -16,8 +16,6 @@ WSCAN currently only detects WordPress and Joomla, but will soon detect many mor
 
 WSCAN requiere Python 3
 
-Install the dependencies
-
 ```sh
 git clone https://github.com/alexfs2015/WSCAN
 cd WSCAN
