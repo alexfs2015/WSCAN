@@ -1,2 +1,2 @@
 # WSCAN
-Este script se utiliza para obtener información de cualquier página web, incluso del CMS utilizado por la misma.
+This script is used to obtain information from any web page, even the CMS used by it.
