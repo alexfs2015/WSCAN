@@ -1,5 +1,0 @@
-python-whois==0.7.3
-ultimate_sitemap_parser==0.5
-colorama==0.4.4
-pyfiglet==0.7
-requests==2.25.1
