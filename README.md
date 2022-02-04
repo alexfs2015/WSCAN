@@ -33,4 +33,4 @@ Any suggestions or ideas are welcome!
 
 ## License
 
-MIT
+GPL
